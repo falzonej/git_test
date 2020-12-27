@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 more checking to see how it works
+=======
+maybe this time
+>>>>>>> git_test
